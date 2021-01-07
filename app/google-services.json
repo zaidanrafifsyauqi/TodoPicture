@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245181828806",
+    "firebase_url": "https://todo-app-gambar.firebaseio.com",
+    "project_id": "todo-app-gambar",
+    "storage_bucket": "todo-app-gambar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245181828806:android:c2ee76126e5d0ca78751c7",
+        "android_client_info": {
+          "package_name": "idn.fahru.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245181828806-i6ogan3iju95t6mkcoemr9b794d85iag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.fahru.aplikasitodogambar",
+            "certificate_hash": "41edd1c23cfa0d015daa0bac858796d0a90e2958"
+          }
+        },
+        {
+          "client_id": "245181828806-lfsangn5ujrpdm2ek8oah96r9jevmjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcw5odjOUiFiGpVUl7y9uCdApYNKKl-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245181828806-lfsangn5ujrpdm2ek8oah96r9jevmjd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
